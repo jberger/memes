@@ -1,0 +1,11 @@
+=head1 Memes
+
+=head3 vague
+
+=over
+
+=item L<http://trout.me.uk/vague.jpg>
+
+=item L<http://trout.me.uk/caption.jpg> - same as above but with a nondescript url
+
+=back
